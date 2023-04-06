@@ -1,0 +1,195 @@
+@media (min-width : 600px) {
+   .nama-moe {
+      width: 880px;
+      margin: auto;
+      margin-top: 40px;
+      border-left: 9px solid #006FE6;
+      height: 158px;
+      padding-left: 10px;
+      position: relative;
+   }
+
+   .nama-moe h1 {
+      font-size: 64pt;
+      font-weight: black;
+      position: absolute;
+      top: -80px;
+   }
+
+   .nama-moe h2 {
+      font-weight: lighter;
+      font-size: 24pt;
+      width: 900px;
+      position: absolute;
+      top: 55px;
+   }
+
+   h3 {
+      font-size: 40pt;
+      text-align: center;
+      font-weight: normal;
+   }
+
+   .box-web {
+      margin: auto;
+      margin-top: -40px;
+      width: 350px;
+   }
+
+   .box-web :hover {
+      color: #006FE6;
+   }
+
+   .box-web h4 {
+      font-size: 24pt;
+      font-weight: lighter;
+      color: white;
+   }
+
+   .box-web img {
+      width: 50px;
+      float: right;
+   }
+
+   .box-design {
+      margin: auto;
+      margin-top: -30px;
+      width: 300px;
+   }
+
+   .box-design :hover {
+      color: #006FE6;
+   }
+
+   .box-design h4 {
+      font-size: 24pt;
+      font-weight: lighter;
+      color: white;
+   }
+
+   .box-design img {
+      width: 50px;
+      float: right;
+   }
+
+   /* ------Footer--------- */
+
+   .footer {
+      width: 130px;
+      margin: auto;
+      margin-top: 130px;
+   }
+
+   .footer :hover {
+      color: #006FE6;
+   }
+
+   .footer h5 {
+      font-size: 16pt;
+      font-weight: lighter;
+      color: white;
+   }
+
+   .footer img {
+      width: 30px;
+      float: right;
+   }
+}
+
+@media (max-width : 599px) {
+   .nama-moe {
+      width: 340px;
+      margin: auto;
+      margin-top: 40px;
+      border-left: 7px solid #006FE6;
+      height: 150px;
+      padding-left: 10px;
+      position: relative;
+   }
+
+   .nama-moe h1 {
+      font-size: 40pt;
+      font-weight: black;
+      position: absolute;
+      line-height: 0.9;
+      top: -40px;
+   }
+
+   .nama-moe h2 {
+      font-weight: lighter;
+      font-size: 14pt;
+      width: 340px;
+      position: absolute;
+      top: 90px;
+   }
+
+   h3 {
+      font-size: 32pt;
+      text-align: center;
+      font-weight: normal;
+      margin-top: 80px;
+   }
+
+   .box-web {
+      margin: auto;
+      margin-top: -30px;
+      width: 280px;
+   }
+
+   .box-web :hover {
+      color: #006FE6;
+   }
+
+   .box-web h4 {
+      font-size: 20pt;
+      font-weight: lighter;
+      color: white;
+   }
+
+   .box-web img {
+      width: 35px;
+      float: right;
+   }
+
+   .box-design {
+      margin: auto;
+      margin-top: -30px;
+      width: 235px;
+   }
+
+   .box-design :hover {
+      color: #006FE6;
+   }
+
+   .box-design h4 {
+      font-size: 20pt;
+      font-weight: lighter;
+      color: white;
+   }
+
+   .box-design img {
+      width: 35px;
+      float: right;
+   }
+
+   .footer {
+      width: 120px;
+      margin: auto;
+      margin-top: 130px;
+   }
+
+   .footer :hover {
+      color: #006FE6;
+   }
+
+   .footer h5 {
+      font-size: 14pt;
+      font-weight: lighter;
+      color: white;
+   }
+
+   .footer img {
+      width: 25px;
+      float: right;
+   }
+}

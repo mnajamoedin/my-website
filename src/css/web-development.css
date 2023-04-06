@@ -1,0 +1,177 @@
+@media (min-width:600px) {
+   .header-web {
+      width: 890px;
+      margin: auto;
+      margin-top: 30px;
+   }
+
+   .header-web img {
+      width: 50px;
+   }
+
+   .page-graph {
+      float: right;
+   }
+
+   .page-graph :hover {
+      color: #006FE6;
+   }
+
+   .page-graph h6 {
+      font-size: 16pt;
+      font-weight: lighter;
+      margin-top: 13px;
+      color: white;
+   }
+
+   .page-graph img {
+      width: 30px;
+      float: right;
+   }
+
+   .judul-web {
+      width: 600px;
+      margin: auto;
+      margin-top: 50px;
+      border-left: 9px solid #006FE6;
+      height: 80px;
+      position: relative;
+   }
+
+   .judul-web h1 {
+      font-size: 48pt;
+      padding-left: 10px;
+      position: absolute;
+      top: -60px;
+   }
+
+   .judul-web h2 {
+      padding-left: 10px;
+      position: absolute;
+      font-size: 20pt;
+      font-weight: lighter;
+      top: 30px;
+   }
+
+   .box-porto {
+      width: 750px;
+      margin: auto;
+      margin-top: 60px;
+      padding-left: 25px;
+      display: grid;
+      grid-template-columns: auto auto;
+      margin-bottom: -70px;
+   }
+
+   .box-porto a {
+      text-decoration: none;
+      color: white;
+   }
+
+   .box-porto a :hover {
+      color: #006FE6;
+   }
+
+   .porto-web {
+      width: 350px;
+      text-align: center;
+   }
+
+   .porto-web img {
+      width: 350px;
+   }
+
+   .porto-web h4 {
+      font-weight: lighter;
+      margin-top: -5px;
+      font-size: 16pt;
+   }
+}
+
+@media (max-width:599px) {
+   .header-web {
+      width: 300px;
+      margin: auto;
+      margin-top: 30px;
+   }
+
+   .header-web img {
+      width: 30px;
+   }
+
+   .page-graph {
+      float: right;
+   }
+
+   .page-graph :hover {
+      color: #006FE6;
+   }
+
+   .page-graph h6 {
+      font-size: 10pt;
+      font-weight: lighter;
+      margin-top: 13px;
+      color: white;
+   }
+
+   .page-graph img {
+      width: 20px;
+      float: right;
+   }
+
+   .judul-web {
+      width: 310px;
+      margin: auto;
+      margin-top: 50px;
+      border-left: 7px solid #006FE6;
+      height: 70px;
+      position: relative;
+   }
+
+   .judul-web h1 {
+      font-size: 24pt;
+      padding-left: 10px;
+      position: absolute;
+      top: -20px;
+   }
+
+   .judul-web h2 {
+      padding-left: 10px;
+      position: absolute;
+      font-size: 14pt;
+      font-weight: lighter;
+      top: 30px;
+   }
+
+   .box-porto {
+      width: 300px;
+      margin: auto;
+      margin-top: 60px;
+      margin-bottom: -70px;
+   }
+
+   .box-porto a {
+      text-decoration: none;
+      color: white;
+   }
+
+   .box-porto a :hover {
+      color: #006FE6;
+   }
+
+   .porto-web {
+      width: 300px;
+      text-align: center;
+   }
+
+   .porto-web img {
+      width: 260px;
+      visibility: visible;
+   }
+
+   .porto-web h4 {
+      font-weight: lighter;
+      margin-top: -5px;
+      font-size: 12pt;
+   }
+}

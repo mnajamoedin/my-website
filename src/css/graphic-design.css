@@ -1,0 +1,116 @@
+@media(min-width : 600px) {
+   .judul-web-graph {
+      width: 490px;
+      margin: auto;
+      margin-top: 50px;
+      border-left: 9px solid #006FE6;
+      height: 80px;
+      position: relative;
+   }
+
+   .judul-web-graph h1 {
+      font-size: 48pt;
+      padding-left: 10px;
+      position: absolute;
+      top: -60px;
+   }
+
+   .judul-web-graph h2 {
+      padding-left: 10px;
+      position: absolute;
+      font-size: 20pt;
+      font-weight: lighter;
+      top: 30px;
+   }
+
+   .group-porto {
+      width: 230px;
+      height: 150px;
+      margin: auto;
+      margin-top: 80px;
+   }
+
+   .porto-design {
+      width: 250px;
+      position: relative;
+   }
+
+   .porto-design h5 {
+      font-size: 20pt;
+      font-weight: lighter;
+      margin-top: -30px;
+
+   }
+
+   .porto-design img {
+      width: 40px;
+      position: absolute;
+   }
+
+   .porto-design a {
+      text-decoration: none;
+      color: white;
+   }
+
+   .porto-design a :hover {
+      color: #006FE6;
+   }
+}
+
+@media (max-width:599px) {
+   .judul-web-graph {
+      width: 250px;
+      margin: auto;
+      margin-top: 50px;
+      border-left: 7px solid #006FE6;
+      height: 55px;
+      position: relative;
+   }
+
+   .judul-web-graph h1 {
+      font-size: 24pt;
+      padding-left: 10px;
+      position: absolute;
+      top: -30px;
+   }
+
+   .judul-web-graph h2 {
+      padding-left: 10px;
+      position: absolute;
+      font-size: 14pt;
+      font-weight: lighter;
+      top: 20px;
+   }
+
+   .group-porto {
+      width: 200px;
+      height: 150px;
+      margin: auto;
+      margin-top: 100px;
+   }
+
+   .porto-design {
+      width: 200px;
+      position: relative;
+   }
+
+   .porto-design h5 {
+      font-size: 14pt;
+      font-weight: lighter;
+      margin-top: -10px;
+   }
+
+   .porto-design img {
+      width: 25px;
+      position: absolute;
+   }
+
+   .porto-design a {
+      text-decoration: none;
+      color: white;
+   }
+
+   .porto-design a :hover {
+      color: #006FE6;
+   }
+}
