@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.c2e47524.css",
+    "main.js": "/my-website/static/js/main.bd659bdc.js",
+    "static/js/787.05dbe972.chunk.js": "/my-website/static/js/787.05dbe972.chunk.js",
+    "static/media/porto3.png": "/my-website/static/media/porto3.64c7cc5f26fd8ee8170d.png",
+    "static/media/porto1.png": "/my-website/static/media/porto1.6672a9384315f8bc7806.png",
+    "static/media/porto2.png": "/my-website/static/media/porto2.fd316a8268af5c5754ba.png",
+    "static/media/poto-profile.png": "/my-website/static/media/poto-profile.e9fe8bfe25efd765351f.png",
+    "static/media/skill.png": "/my-website/static/media/skill.09553057e39160f236b1.png",
+    "static/media/porto4.png": "/my-website/static/media/porto4.f765ab25d829251daf1f.png",
+    "index.html": "/my-website/index.html",
+    "main.c2e47524.css.map": "/my-website/static/css/main.c2e47524.css.map",
+    "main.bd659bdc.js.map": "/my-website/static/js/main.bd659bdc.js.map",
+    "787.05dbe972.chunk.js.map": "/my-website/static/js/787.05dbe972.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e47524.css",
+    "static/js/main.bd659bdc.js"
+  ]
+}
